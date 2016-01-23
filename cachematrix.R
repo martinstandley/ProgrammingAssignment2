@@ -1,5 +1,5 @@
 
-## makeCacheMatrix is used to for allocating space for the cached inverse 
+## makeCacheMatrix is used for allocating space for the cached inverse matrix
 ## and defining functions for setting the matrix and its inverse
 ## and retrieving the matrix and its inverse (when the latter has been set).
 ## It takes the matrix as argument and returns a list of 4 functions for setting
